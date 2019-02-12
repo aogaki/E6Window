@@ -1,5 +1,6 @@
 #!/bin/bash
-for T in 3 5
+#for T in 3 5
+for T in 10
 do
   for ene in 1 2 3 4 5 6 7 8 9 10
   do

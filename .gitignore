@@ -11,3 +11,6 @@ G4History.macro
 test/
 compile_commands.json
 *.root
+*.d
+*.so
+*.pcm
